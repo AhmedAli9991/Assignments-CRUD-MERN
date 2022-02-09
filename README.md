@@ -14,6 +14,7 @@
 - MongoDB
 - Connecting React to Express Backend
 - Axios
+- Fetch
 - Routing
 - middleware
 - MERN Stack
