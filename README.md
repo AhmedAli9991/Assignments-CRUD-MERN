@@ -16,6 +16,7 @@
 - Axios
 - Fetch
 - Routing
+- authentication 
 - middleware
 - MERN Stack
 
