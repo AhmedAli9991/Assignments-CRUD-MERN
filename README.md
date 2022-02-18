@@ -17,6 +17,8 @@
 - Fetch
 - Routing
 - authentication 
+- sessions 
+- jwt
 - middleware
 - MERN Stack
 
