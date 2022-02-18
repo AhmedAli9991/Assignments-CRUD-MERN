@@ -18,6 +18,7 @@
 - Routing
 - authentication 
 - sessions 
+- cookies
 - jwt
 - middleware
 - MERN Stack
